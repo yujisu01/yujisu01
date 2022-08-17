@@ -1,4 +1,4 @@
-###   어글리코리안 
+###   
 
 <!--
 **yujisu01/yujisu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![yujisu01's github stats](https://github-readme-stats.vercel.app/api?username=yujisu01&show_icons=true)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujisu01%2Fhit-counter&count_bg=%231D13DF&title_bg=%232EA5ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
